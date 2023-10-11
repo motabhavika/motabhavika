@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @motabhavika
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 motabhavika/motabhavika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
